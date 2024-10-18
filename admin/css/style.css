@@ -1,0 +1,20 @@
+body {
+  font-family: "Cairo", sans-serif;
+}
+
+.navbar {
+  background-color: #25cde3;
+}
+
+div.dataTables_wrapper {
+  width: 800px;
+  margin: 0 auto;
+}
+
+input {
+  text-align: right;
+}
+
+.input_error {
+  box-shadow: 0 0 5px red;
+}
